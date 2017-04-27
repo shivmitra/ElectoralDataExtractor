@@ -1,0 +1,7 @@
+Constituency is in resultdata but missing in constituencydata
+Constituency(id=49, name=SOHNA ROAD, , GURGAON)
+Constituency is in constituencydata but missing in resultdata
+Constituency(id=60, name=SOHNA)
+total constituency data 90
+total result data 90
+total turnout data 90

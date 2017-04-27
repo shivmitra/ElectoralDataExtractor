@@ -1,0 +1,8 @@
+Constituency is in resultdata but missing in constituencydata
+Constituency is in constituencydata but missing in resultdata
+Constituency(id=15, name=SAGALEE (ST))
+Constituency(id=4, name=DIRANG (ST))
+Constituency(id=3, name=MUKTO (ST))
+total constituency data 60
+total result data 57
+total turnout data 57

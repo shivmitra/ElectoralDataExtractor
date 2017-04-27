@@ -1,0 +1,14 @@
+Constituency is in resultdata but missing in constituencydata
+Constituency1(super=Constituency(id=233, name=PARLI), electors=274439)
+Constituency1(super=Constituency(id=232, name=KAIJ (SC)), electors=323675)
+Constituency1(super=Constituency(id=230, name=BEED), electors=291514)
+Constituency1(super=Constituency(id=229, name=MAJALGAON), electors=292888)
+Constituency1(super=Constituency(id=231, name=ASHTI), electors=341703)
+Constituency1(super=Constituency(id=228, name=GEORAI), electors=313770)
+Constituency1(super=Constituency(id=193, name=SHRIVARDHAN), electors=241067)
+Constituency is in constituencydata but missing in resultdata
+Constituency(id=8, name=TEST VOTES POLLED ON EVM)
+Constituency(id=2, name=OVERSEAS)
+total constituency data 283
+total result data 288
+total turnout data 288

@@ -1,0 +1,5 @@
+Constituency is in resultdata but missing in constituencydata
+Constituency is in constituencydata but missing in resultdata
+total constituency data 140
+total result data 140
+total turnout data 140

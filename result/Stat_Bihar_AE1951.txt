@@ -1,0 +1,12 @@
+in turnout, not in constituency
+com.model.constituency.Constituency2@3b8b5b40[numberofSeats=2,id=3,name=PATNA CITY WEST CUM NAUBATPUNRUMBER]
+com.model.constituency.Constituency2@2e1ad7de[numberofSeats=2,id=18,name=PAKRIBARAWAN CUM WARSALIGA NUJMBER]
+in constituency, not in turnout
+com.model.constituency.Constituency2@1de6dc80[numberofSeats=2,id=3,name=PATNA CITY WEST CUM NAUBATPUR NUMBER]
+com.model.constituency.Constituency2@418d1c03[numberofSeats=2,id=18,name=PAKRIBARAWAN CUM WARSALIGANJ NUMBER]
+in result, not in constituency
+com.model.constituency.Constituency2@3b8b5b40[numberofSeats=2,id=3,name=PATNA CITY WEST CUM NAUBATPUNRUMBER]
+com.model.constituency.Constituency2@2e1ad7de[numberofSeats=2,id=18,name=PAKRIBARAWAN CUM WARSALIGA NUJMBER]
+in constituency, not in result
+com.model.constituency.Constituency2@1de6dc80[numberofSeats=2,id=3,name=PATNA CITY WEST CUM NAUBATPUR NUMBER]
+com.model.constituency.Constituency2@418d1c03[numberofSeats=2,id=18,name=PAKRIBARAWAN CUM WARSALIGANJ NUMBER]

@@ -1,0 +1,12 @@
+in turnout, not in constituency
+com.model.constituency.Constituency@39384ba6[id=1,name=NONE OF THE ABOVE NOTA NOTA]
+in constituency, not in turnout
+com.model.constituency.Constituency@e7529ac[id=210,name=DINARA]
+com.model.constituency.Constituency@6770a229[id=229,name=BODH GAYA (SC) (SC)]
+com.model.constituency.Constituency@6b17aa0b[id=195,name=AGIAON (SC) (SC)]
+in result, not in constituency
+com.model.constituency.Constituency@39384ba6[id=1,name=NONE OF THE ABOVE NOTA NOTA]
+in constituency, not in result
+com.model.constituency.Constituency@e7529ac[id=210,name=DINARA]
+com.model.constituency.Constituency@6770a229[id=229,name=BODH GAYA (SC) (SC)]
+com.model.constituency.Constituency@6b17aa0b[id=195,name=AGIAON (SC) (SC)]

@@ -1,0 +1,8 @@
+in turnout, not in constituency
+com.model.constituency.Constituency@11ce721f[id=49,name=SOHNA ROAD, , GURGAON]
+in constituency, not in turnout
+com.model.constituency.Constituency@4b5725b5[id=60,name=SOHNA]
+in result, not in constituency
+com.model.constituency.Constituency@11ce721f[id=49,name=SOHNA ROAD, , GURGAON]
+in constituency, not in result
+com.model.constituency.Constituency@4b5725b5[id=60,name=SOHNA]

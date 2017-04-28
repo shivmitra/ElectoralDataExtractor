@@ -1,0 +1,4 @@
+in constituency, not in turnout
+com.model.constituency.Constituency@6267b25a[id=31,name=KRISHAN NAGAR]
+in constituency, not in result
+com.model.constituency.Constituency@6267b25a[id=31,name=KRISHAN NAGAR]

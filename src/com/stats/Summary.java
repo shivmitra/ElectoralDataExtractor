@@ -1,8 +1,11 @@
 package com.stats;
 
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
 
+import com.converter.Utils;
 import com.model.Election;
 import com.model.DBModel.ConstituencyWiseData;
 import com.model.DBModel.ConstituencyWiseResult;
@@ -43,7 +46,12 @@ public class Summary {
 			if(!(obj instanceof ECPair)) return false;
 			ECPair that = (ECPair) obj;
 			if(this.e.equals(that.e) && this.c.getId() == that.c.getId() && 
-					this.c.getName().replaceAll("\\s+", "").equals(that.c.getName().replaceAll("\\s+", "")))
+					this.c.getName().replace("(SC)","")
+					.replace("(ST)", "")
+					.replaceAll("\\s+", "")
+					.equals(that.c.getName().replace("(SC)","")
+							.replace("(ST)", "")
+							.replaceAll("\\s+", "")))
 				return true;
 			return false;
 		}
@@ -51,61 +59,76 @@ public class Summary {
 		@Override public int hashCode() {
 			final int PRIME = 43;
 			int result = 1;
-			result = (result*PRIME) + this.c.getName().replaceAll("\\s+", "").hashCode();
+			result = (result*PRIME) + this.c.getName().replace("(SC)","").replace("(ST)", "").replaceAll("\\s+", "").hashCode();
 			result = (result*PRIME) + this.c.getId();
 			result = (result*PRIME) + this.e.hashCode();
 			return result;
 		}
 	}
 	
-	public void add(List<?> ld){
-		
-		ld.stream().filter(d-> d instanceof ConstituencyWiseData)
-					.forEach(d->{
-						ConstituencyWiseData cwd = (ConstituencyWiseData)d;
-						CData cdata = new CData(cwd);
-						ECPair pair = new ECPair(cwd.getElection(),cwd.getConstituency());
-						datamap.put(pair, cdata);
-					});
-		
-		ld.stream().filter(d-> d instanceof ConstituencyWiseResult)
-		.forEach(d->{
-			ConstituencyWiseResult cwr = (ConstituencyWiseResult)d;
-			ECPair pair = new ECPair(cwr.getElection(),cwr.getConstituency());
-			resultmap.put(pair, cwr.getResult());
-		});
-		
-		ld.stream().filter(d-> d instanceof ConstituencyWiseTurnout)
-		.forEach(d->{
-			ConstituencyWiseTurnout cwt = (ConstituencyWiseTurnout)d;
-			ECPair pair = new ECPair(cwt.getElection(),cwt.getConstituency());
-			turnoutmap.put(pair, cwt.getTurnout());
-		});
+	public void add(ConstituencyWiseResult cwr){
+		ECPair pair = new ECPair(cwr.getElection(),cwr.getConstituency());
+		resultmap.put(pair, cwr.getResult());
+	}
+	
+	public void add(ConstituencyWiseTurnout cwt){
+		ECPair pair = new ECPair(cwt.getElection(),cwt.getConstituency());
+		turnoutmap.put(pair, cwt.getTurnout());
+	}
+	
+	public void add(ConstituencyWiseData cwd){
+		CData cdata = new CData(cwd);
+		ECPair pair = new ECPair(cwd.getElection(),cwd.getConstituency());
+		datamap.put(pair, cdata);
 	}
 	
 	
 	public void writeSummary(){
-		if(datamap.size() == resultmap.size() && turnoutmap.size() == datamap.size())
-			return;
+		Difference tdiff = new Difference(turnoutmap.keySet(),datamap);
+		Difference rdiff = new Difference(resultmap.keySet(),datamap);
 		
-		// check if all constituency data in resultmap are also in datamap 
-		System.out.println("Constituency" + " is in resultdata but missing in constituencydata");
-		resultmap.entrySet().stream()
-								.forEach(e -> {
-									if(!datamap.containsKey(e.getKey()))
-										System.out.println(e.getKey().c);
-								});
+		if(tdiff.AB.size() != 0){
+			System.out.println("in turnout, not in constituency");
+			tdiff.AB.stream().forEach(Utils::print);
+		}
 		
-		System.out.println("Constituency" + " is in constituencydata but missing in resultdata");
-		datamap.entrySet().stream()
-		.forEach(e -> {
-			// to check for uncontested constituencies
-			if(!resultmap.containsKey(e.getKey()) && datamap.get(e).voters != -1)
-				System.out.println(e.getKey().c);
-		});
+		if(tdiff.BA.size() != 0){
+			System.out.println("in constituency, not in turnout");
+			tdiff.BA.stream().forEach(Utils::print);
+		}
 		
-		System.out.println("total constituency data " + datamap.size());
-		System.out.println("total result data " + resultmap.size());
-		System.out.println("total turnout data " + turnoutmap.size());
+		if(rdiff.AB.size() != 0){
+			System.out.println("in result, not in constituency");
+			rdiff.AB.stream().forEach(Utils::print);
+		}
+		
+		if(rdiff.BA.size() != 0){
+			System.out.println("in constituency, not in result");
+			rdiff.BA.stream().forEach(Utils::print);
+		}
+
+	}
+	
+	private class Difference{
+		public HashSet<Constituency> AB;
+		public HashSet<Constituency> BA;
+		
+		public Difference(Set<ECPair> set, HashMap<ECPair,CData> data){
+			AB = new HashSet<Constituency>();
+			BA = new HashSet<Constituency>();
+			
+			set.stream()
+			.forEach(e -> {
+				if(!data.containsKey(e))
+					AB.add(e.c);
+			});
+			
+			data.keySet().stream()
+			.forEach(e -> {
+				// to check for uncontested constituencies 
+				if(!set.contains(e) && data.get(e).voters != -1)
+					BA.add(e.c);
+			});
+		}
 	}
 }

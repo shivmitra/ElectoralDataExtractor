@@ -1,0 +1,8 @@
+in turnout, not in constituency
+com.model.constituency.Constituency@25d43538[id=22,name=CHENGALPATTU]
+in constituency, not in turnout
+com.model.constituency.Constituency@51501889[id=4,name=CONTESTE15015]
+in result, not in constituency
+com.model.constituency.Constituency@25d43538[id=22,name=CHENGALPATTU]
+in constituency, not in result
+com.model.constituency.Constituency@51501889[id=4,name=CONTESTE15015]

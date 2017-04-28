@@ -1,0 +1,6 @@
+in turnout, not in constituency
+com.model.constituency.Constituency@731819a0[id=7,name=, ,]
+in constituency, not in turnout
+com.model.constituency.Constituency@71bebddf[id=190,name=PATNA EAST]
+in result, not in constituency
+com.model.constituency.Constituency@731819a0[id=7,name=, ,]

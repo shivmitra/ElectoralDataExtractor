@@ -1,0 +1,20 @@
+in turnout, not in constituency
+com.model.constituency.Constituency1@136718b3[electors=323675,id=232,name=KAIJ (SC)]
+com.model.constituency.Constituency1@fb92271[electors=274439,id=233,name=PARLI]
+com.model.constituency.Constituency1@38f3e32a[electors=292888,id=229,name=MAJALGAON]
+com.model.constituency.Constituency1@1a20b8ba[electors=313770,id=228,name=GEORAI]
+com.model.constituency.Constituency1@31a999cd[electors=291514,id=230,name=BEED]
+com.model.constituency.Constituency1@77c59f23[electors=341703,id=231,name=ASHTI]
+com.model.constituency.Constituency1@5088d842[electors=241067,id=193,name=SHRIVARDHAN]
+in constituency, not in turnout
+com.model.constituency.Constituency@4f725f81[id=2,name=OVERSEAS]
+in result, not in constituency
+com.model.constituency.Constituency1@136718b3[electors=323675,id=232,name=KAIJ (SC)]
+com.model.constituency.Constituency1@fb92271[electors=274439,id=233,name=PARLI]
+com.model.constituency.Constituency1@38f3e32a[electors=292888,id=229,name=MAJALGAON]
+com.model.constituency.Constituency1@1a20b8ba[electors=313770,id=228,name=GEORAI]
+com.model.constituency.Constituency1@31a999cd[electors=291514,id=230,name=BEED]
+com.model.constituency.Constituency1@77c59f23[electors=341703,id=231,name=ASHTI]
+com.model.constituency.Constituency1@5088d842[electors=241067,id=193,name=SHRIVARDHAN]
+in constituency, not in result
+com.model.constituency.Constituency@4f725f81[id=2,name=OVERSEAS]

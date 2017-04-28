@@ -27,8 +27,7 @@ public class ConstituencyWiseResultBuilder {
 			if(o instanceof Election){
 				activeE = (Election) o;
 			}else if (o instanceof Constituency){
-				if(activeC != null)
-					build();
+				build();
 				activeC = (Constituency) o;
 			}else if(o instanceof Result){
 				activeR.add((Result) o);
@@ -40,7 +39,8 @@ public class ConstituencyWiseResultBuilder {
 	
 	private void build(){
 		if(activeR.isEmpty()) return;
-		result.add(new ConstituencyWiseResult(activeE, activeC, activeR));
+		if(activeE != null && activeC != null && activeR != null)
+			result.add(new ConstituencyWiseResult(activeE, activeC, activeR));
 		activeC = null;
 		activeR = new ArrayList<Result>();
 	}

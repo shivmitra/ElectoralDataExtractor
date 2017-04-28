@@ -26,15 +26,19 @@ public class ConstituencyWiseTurnoutBuilder {
 			if(o instanceof Election){
 				activeE = (Election) o;
 			}else if (o instanceof Constituency){
+				build();
 				activeC = (Constituency) o;
 			}else if(o instanceof Turnout){
 				activeT = (Turnout) o;
-			}
-			
-			if(activeE != null && activeT != null && activeC != null){
-				result.add(new ConstituencyWiseTurnout(activeE, activeC, activeT));
-				erase();
-			}
+			}	
+		}
+		build();
+	}
+	
+	private void build(){
+		if(activeE != null && activeT != null && activeC != null){
+			result.add(new ConstituencyWiseTurnout(activeE, activeC, activeT));
+			erase();
 		}
 	}
 	

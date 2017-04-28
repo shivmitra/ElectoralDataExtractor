@@ -1,6 +1,0 @@
-Constituency is in resultdata but missing in constituencydata
-Constituency is in constituencydata but missing in resultdata
-Constituency(id=59, name=BAJPUR)
-total constituency data 70
-total result data 69
-total turnout data 69

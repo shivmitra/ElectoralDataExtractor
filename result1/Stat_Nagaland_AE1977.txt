@@ -1,6 +1,0 @@
-Constituency is in resultdata but missing in constituencydata
-Constituency is in constituencydata but missing in resultdata
-Constituency(id=15, name=SOUTHERN ANGAMI II)
-total constituency data 60
-total result data 59
-total turnout data 59

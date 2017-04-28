@@ -1,0 +1,4 @@
+in constituency, not in turnout
+com.model.constituency.Constituency@5f8f7437[id=12,name=BEAS]
+in constituency, not in result
+com.model.constituency.Constituency@5f8f7437[id=12,name=BEAS]

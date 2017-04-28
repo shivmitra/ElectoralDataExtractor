@@ -50,7 +50,7 @@ public class PDFEditor {
 		
 		int total = pages.size();
 	
-		IntStream.rangeClosed(15, total).forEach(pagenum -> {
+		IntStream.rangeClosed(1, total).forEach(pagenum -> {
 			
 			List<Table> l;
 			try {

@@ -1,0 +1,4 @@
+in turnout, not in constituency
+com.model.constituency.Constituency1@43245559[electors=193718,id=288,name=SATYAVEDU (SC)]
+in result, not in constituency
+com.model.constituency.Constituency1@43245559[electors=193718,id=288,name=SATYAVEDU (SC)]

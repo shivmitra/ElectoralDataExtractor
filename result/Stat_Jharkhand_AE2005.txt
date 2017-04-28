@@ -1,0 +1,6 @@
+in turnout, not in constituency
+com.model.constituency.Constituency@f74436a[id=301,name=NORTH OFFICE PARA]
+in constituency, not in turnout
+com.model.constituency.Constituency@19cc4b7c[id=32,name=GIRIDIH]
+in result, not in constituency
+com.model.constituency.Constituency@f74436a[id=301,name=NORTH OFFICE PARA]

@@ -7,7 +7,6 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.List;
-import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 import com.builder.ConstituencyWiseResultBuilder;
@@ -17,14 +16,9 @@ import com.converter.Constants;
 import com.converter.Context;
 import com.converter.Utils;
 import com.extractor.PdfObjectExtractor;
-import com.model.Count;
-import com.model.Electors;
-import com.model.Voters;
 import com.model.DBModel.ConstituencyWiseResult;
 import com.model.DBModel.ConstituencyWiseTurnout;
 import com.model.DBModel.ConstituencyWiseData;
-import com.model.constituency.Constituency;
-import com.model.result.Result;
 import com.mongodb.MongoClient;
 import com.stats.Summary;
 
@@ -35,7 +29,19 @@ import org.mongodb.morphia.Morphia;
 
 public class PDFExtractorApp {
 	
-	private Summary sum;
+	public static Datastore connectMongo(){
+		MongoClient client = new MongoClient("127.0.0.1",27017);
+		client.dropDatabase("test");
+		Morphia morphia = new Morphia();
+		morphia.map(ConstituencyWiseResult.class);
+		morphia.map(ConstituencyWiseTurnout.class);
+		morphia.map(ConstituencyWiseData.class);
+		
+		Datastore ds = morphia.createDatastore(client, "test");
+		ds.ensureIndexes();
+		
+		return ds;
+	}
 	
 	public static void main(String[] args) throws IOException{
 		//to insure proper factory registration
@@ -50,16 +56,6 @@ public class PDFExtractorApp {
 			
 		}
 		
-		MongoClient client = new MongoClient("127.0.0.1",27017);
-		client.dropDatabase("test");
-		Morphia morphia = new Morphia();
-		morphia.map(ConstituencyWiseResult.class);
-		morphia.map(ConstituencyWiseTurnout.class);
-		morphia.map(ConstituencyWiseData.class);
-		
-		Datastore ds = morphia.createDatastore(client, "test");
-		ds.ensureIndexes();
-		
 		String folderPath = "pdf/";
 		String resultPath = "result/";
 		String errorPath = "error/";
@@ -67,13 +63,20 @@ public class PDFExtractorApp {
 		FileUtils.deleteDirectory(new File(resultPath));
 		FileUtils.deleteDirectory(new File(errorPath));
 		
-		new PDFExtractorApp().run(folderPath, resultPath, errorPath,ds);
+		new PDFExtractorApp().run(folderPath, resultPath, errorPath);
 		
 	}
 
-	private void run(String folderPath, String resultPath, String errorPath, Datastore ds) throws IOException{
-		Context[] ctxstosearch = {new Context(Constants.PDF.CONSTITUENCY_DATA_CONTEXT),new Context(Constants.PDF.DECLARED_RESULT_CONTEXT)};
-       	try(Stream<Path> paths = Files.walk(Paths.get(folderPath))) {
+	private void run(String folderPath, String resultPath, String errorPath) throws IOException{
+		
+		Datastore ds = null;
+		//ds = connectMongo();
+		
+		Context[] ctxstosearch = {new Context(Constants.PDF.DECLARED_RESULT_CONTEXT),
+				new Context(Constants.PDF.CONSTITUENCY_DATA_CONTEXT),
+				new Context(Constants.PDF.ELECTION_CONTEXT)};
+       	
+		try(Stream<Path> paths = Files.walk(Paths.get(folderPath))) {
        	    paths.forEach(filePath -> {
        	        if (Files.isRegularFile(filePath)) {
        	        	try{
@@ -102,17 +105,17 @@ public class PDFExtractorApp {
 			       	         System.setOut(o);
 			       	         System.setErr(e);
 			       	         
-			       	         sum = new Summary();
-			       	         for(int i=0;i<ctxstosearch.length;i++){
-			       	        	extractAndWriteContextRelatedData(ctxstosearch[i],filePath.toString(),ds);
-       	        		 	 }
+			       	         Summary sum = new Summary();
 			       	         
+			       	         extractAndWriteContextRelatedData(ctxstosearch,filePath.toString(),ds,sum);
+       	        		 	 
 			       	         try{
 			       	        	 sum.writeSummary();
 			       	         }catch(Exception ex){
-			       	        	 System.err.println(e);
+			       	        	 System.err.println(ex);
 			       	        	 ex.printStackTrace();
 			       	         }
+			       	         
 			       	         //Use stored value for output stream
 			       	         System.setOut(console);
 			       	         System.setErr(econsole);
@@ -146,33 +149,17 @@ public class PDFExtractorApp {
 		}
 	}
 	
-	private void extractAndWriteContextRelatedData(Context ctx, String filePath, Datastore ds) throws IOException{
-		 Context[] ctxs = 
-	        	 {new Context(Constants.PDF.ELECTION_CONTEXT),ctx};
-		 
+	private void extractAndWriteContextRelatedData(Context[] ctxs, String filePath, Datastore ds, Summary sum) throws IOException{
+		
          List<Object> list = new PdfObjectExtractor(filePath, ctxs).getObjects();
-         list.stream().forEach(d->{
-        	 if(d instanceof Constituency)
-        		 Utils.print(d);
-        	 if(d instanceof Result){
-        		 System.out.println("result");
-        	 }
-        	 if(d instanceof Electors)
-        		 System.out.println("elector");
-        	 if(d instanceof Voters)
-        		 System.out.println("voter");
-        	 if(d instanceof Count)
-        		 Utils.print(d);
-         });
+
+         List<ConstituencyWiseData> cwdList = new ConstituencyWiseDataBuilder(list).getResult();
          List<ConstituencyWiseResult> cwrList = new ConstituencyWiseResultBuilder(list).getResult();
          List<ConstituencyWiseTurnout> cwtList = new ConstituencyWiseTurnoutBuilder(list).getResult();
-         List<ConstituencyWiseData> cwdList = new ConstituencyWiseDataBuilder(list).getResult();
          
-         sum.add(cwrList);
-         sum.add(cwtList);
-         sum.add(cwdList);
-         
-         //System.out.println("constituency " + cwdList.size() + " result " + cwrList.size() + " turnout " + cwtList.size());
+         cwrList.stream().forEach(sum::add);
+         cwdList.stream().forEach(sum::add);
+         cwtList.stream().forEach(sum::add);
          
          //writeList(cwrList,ds);
          //writeList(cwtList,ds);

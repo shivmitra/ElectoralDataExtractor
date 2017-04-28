@@ -1,0 +1,1742 @@
+Apr 28, 2017 4:46:52 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:46:52 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:46:58 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:46:58 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:47:01 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:47:01 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:47:10 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:47:10 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:47:10 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:47:10 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:47:10 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:47:15 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:47:15 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:47:20 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:47:20 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:47:27 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:47:27 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:47:33 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:47:33 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:47:38 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:47:38 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:47:43 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:47:43 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:47:51 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:47:51 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:47:56 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:47:56 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:48:01 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:48:01 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:48:01 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:48:14 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:48:14 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:48:15 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:48:15 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:48:15 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:48:15 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:48:16 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:48:16 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:48:17 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:48:17 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:48:18 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:48:18 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:48:18 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:48:19 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:48:19 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:48:21 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:48:21 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:48:25 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:48:25 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:48:25 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:48:26 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:48:26 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:48:27 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:48:27 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:48:29 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:48:29 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:48:29 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:48:30 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:48:30 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:48:32 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:48:32 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:48:32 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: BDC
+Apr 28, 2017 4:48:32 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: EMC
+Apr 28, 2017 4:48:35 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:48:35 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:48:37 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:48:37 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:48:39 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:48:43 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: BDC
+Apr 28, 2017 4:48:43 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: EMC
+Apr 28, 2017 4:48:43 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:48:43 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: BMC
+Apr 28, 2017 4:48:46 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:48:46 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:48:49 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:48:49 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:48:51 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:48:51 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:48:51 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:48:51 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:48:51 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:48:55 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:48:55 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:48:58 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:48:58 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:49:02 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:49:02 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:49:06 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:49:06 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:49:11 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:49:11 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:49:16 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:49:16 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:49:21 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:49:21 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:49:23 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:49:23 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:49:23 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:49:23 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:49:23 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:49:23 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:49:23 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:49:28 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:49:28 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:49:34 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:49:34 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:49:42 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:49:42 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:49:51 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:50:03 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:50:03 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:50:07 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:50:07 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:50:07 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:50:07 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:50:07 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:50:16 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: BDC
+Apr 28, 2017 4:50:16 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: EMC
+Apr 28, 2017 4:50:23 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:50:23 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:50:32 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:50:32 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:50:39 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:50:39 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:50:41 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:50:41 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:50:42 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:50:42 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:50:47 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:50:47 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:50:47 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:50:47 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:50:48 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:50:48 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:50:49 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:50:49 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:50:50 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:50:50 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:50:52 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:50:54 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:50:54 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:50:59 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: BDC
+Apr 28, 2017 4:50:59 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: EMC
+Apr 28, 2017 4:51:01 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:51:01 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:51:01 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:51:01 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:51:02 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:51:02 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:51:02 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:51:02 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:51:03 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:51:03 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:51:03 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:51:03 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:51:04 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:51:05 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:51:06 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:51:06 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:51:07 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:51:07 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:51:08 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:51:08 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:51:09 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:51:09 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:51:09 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:51:09 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:51:09 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:51:09 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:51:09 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:51:09 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:51:09 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:51:09 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:51:09 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:51:09 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:51:09 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:51:09 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:51:09 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:51:09 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:51:09 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:51:09 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:51:09 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:51:09 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:51:09 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:51:09 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:51:09 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:51:09 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:51:10 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:51:10 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:51:13 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:51:13 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:51:15 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:51:15 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:51:18 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:51:18 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:51:21 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:51:21 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:51:24 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:51:24 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:51:28 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:51:33 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:51:37 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:51:37 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:51:41 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:51:41 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:51:47 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: BDC
+Apr 28, 2017 4:51:47 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: EMC
+Apr 28, 2017 4:51:48 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:51:48 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:51:48 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:51:48 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:51:48 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:51:48 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:51:48 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:51:48 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:51:48 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:51:48 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:52:32 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:52:32 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:52:38 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:52:38 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:52:38 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:52:41 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:52:41 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:52:45 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:52:45 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:52:51 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:52:51 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:52:57 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:52:57 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:53:16 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:53:28 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:53:28 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:53:34 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:53:34 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:53:52 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: BDC
+Apr 28, 2017 4:53:52 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: EMC
+Apr 28, 2017 4:53:59 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:53:59 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:54:01 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:54:01 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:54:02 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:54:03 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:54:03 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:54:06 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:54:06 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:54:10 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:54:10 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:54:13 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:54:13 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:54:17 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:54:17 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:54:21 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:54:21 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:54:26 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:54:29 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:54:29 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:54:34 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:54:34 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:54:39 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:54:43 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:54:43 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:54:46 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:54:46 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:54:50 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:54:50 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:54:53 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:54:53 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:54:57 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:54:57 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:55:02 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:55:07 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:55:16 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:55:16 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:55:16 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:55:16 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:55:16 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:55:16 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:55:16 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:55:16 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:55:16 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:55:16 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:55:16 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:55:16 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:55:16 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:55:16 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:55:16 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:55:16 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:55:16 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:55:16 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:55:16 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:55:16 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:55:16 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:55:16 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:55:16 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:55:16 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:55:16 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:55:16 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:55:16 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:55:16 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:55:16 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:55:21 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: BDC
+Apr 28, 2017 4:55:21 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: EMC
+Apr 28, 2017 4:55:29 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:55:29 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:55:29 PM org.apache.fontbox.ttf.CMAPEncodingEntry processSubtype4
+WARNING: cmap format 4 subtable is empty
+Apr 28, 2017 4:55:52 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: BDC
+Apr 28, 2017 4:55:52 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: EMC
+Apr 28, 2017 4:55:52 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: MP
+Apr 28, 2017 4:55:59 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:55:59 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:56:06 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:56:06 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:56:14 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:56:14 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:56:22 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:56:22 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:56:32 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:56:32 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:56:45 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:56:45 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:56:58 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:56:58 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:57:11 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:57:11 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:57:25 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:57:43 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:57:43 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:57:57 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:57:57 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:57:59 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:57:59 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:57:59 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:57:59 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:57:59 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:57:59 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:57:59 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:57:59 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:57:59 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:57:59 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:57:59 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:57:59 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:57:59 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:57:59 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:57:59 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:58:42 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:58:42 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:58:46 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:58:46 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:58:49 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:58:49 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:58:55 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:58:55 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:59:00 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:59:00 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:59:06 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:59:06 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:59:12 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:59:12 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:59:18 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:59:18 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:59:25 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:59:25 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:59:31 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:59:31 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:59:33 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:59:40 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:59:40 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:59:46 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:59:46 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:59:50 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:59:50 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:59:50 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:59:50 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:59:50 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:59:50 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:59:50 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:59:50 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:59:50 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:59:50 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:59:50 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:59:50 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:59:50 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:59:50 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 4:59:51 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:59:51 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:59:54 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:59:54 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 4:59:56 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 4:59:56 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:00:00 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:00:00 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:00:04 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:00:04 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:00:09 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:00:09 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:00:15 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:00:15 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:00:22 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:00:22 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:00:27 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:00:27 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:00:35 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:00:35 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:00:42 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:00:49 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:00:49 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:00:55 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:00:55 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:00:55 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:00:55 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:00:55 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:00:55 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:00:55 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:00:55 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:00:55 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:00:55 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:00:55 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:01:00 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: MP
+Apr 28, 2017 5:01:00 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:01:00 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:01:06 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:01:06 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:01:10 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:01:10 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:01:15 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:01:15 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:01:19 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:01:19 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:01:24 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:01:24 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:01:30 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:01:30 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:01:35 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:01:35 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:01:44 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:01:53 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:01:53 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:01:59 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:01:59 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:02:05 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:02:05 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:02:06 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:02:06 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:02:06 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:02:06 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:02:06 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:02:06 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:02:06 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:02:06 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:02:06 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:02:06 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:02:11 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: BDC
+Apr 28, 2017 5:02:11 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: EMC
+Apr 28, 2017 5:02:20 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:02:20 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:02:20 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:02:20 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:02:21 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:02:21 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:02:22 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:02:22 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:02:24 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:02:24 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:02:25 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:02:25 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:02:26 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:02:27 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:02:27 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:02:28 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:02:28 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:02:30 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:02:30 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:02:32 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:02:32 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:02:33 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:02:33 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:02:35 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:02:35 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:02:36 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:02:36 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:02:37 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:02:37 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:02:38 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:02:39 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:02:39 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:02:42 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:02:42 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:02:43 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:02:43 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:02:43 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:02:43 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:02:43 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: BDC
+Apr 28, 2017 5:02:43 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: EMC
+Apr 28, 2017 5:02:44 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:02:44 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:02:44 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:02:44 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:02:45 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:02:45 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:02:46 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:02:46 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:02:46 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:02:47 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:02:47 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:02:49 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:02:49 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:02:50 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:02:50 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:02:50 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:02:50 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:02:51 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:02:51 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:02:52 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:02:52 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:02:53 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:02:53 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:02:54 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:02:54 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:02:55 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:02:55 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:02:55 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:02:56 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:02:56 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:02:58 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: BDC
+Apr 28, 2017 5:02:58 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: EMC
+Apr 28, 2017 5:02:58 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:02:59 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:02:59 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:03:01 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:03:01 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:03:02 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:03:02 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:03:02 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:03:02 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:03:02 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:03:02 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:03:02 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:03:02 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:03:02 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:03:02 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:03:02 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:03:02 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:03:02 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:03:02 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:03:02 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:03:02 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:03:02 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:03:02 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:03:02 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:03:02 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:03:02 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:03:02 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:03:02 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:03:02 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:03:02 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:03:02 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:03:02 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:03:02 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:03:02 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:03:02 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:03:02 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:03:02 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:03:02 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:03:02 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:03:02 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:03:02 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:03:02 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:03:02 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:03:02 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:03:02 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:03:02 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:03:02 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:03:02 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:03:02 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:03:02 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:03:02 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:03:02 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:03:02 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:03:04 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:03:04 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:03:06 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:03:06 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:03:09 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:03:09 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:03:11 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:03:11 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:03:14 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:03:14 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:03:16 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:03:16 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:03:19 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:03:19 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:03:21 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:03:24 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:03:25 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:03:27 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:03:27 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:03:32 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: BDC
+Apr 28, 2017 5:03:32 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: EMC
+Apr 28, 2017 5:03:35 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:03:35 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:03:36 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:03:36 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:03:36 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:03:36 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:03:37 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:03:37 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:03:37 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:03:37 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:03:38 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:03:38 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:03:38 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:03:38 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:03:40 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:03:41 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:03:41 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:03:41 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:03:41 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:03:43 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:03:43 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:03:45 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:03:45 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:03:46 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:03:46 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:03:48 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:03:48 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:03:50 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:03:50 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:03:51 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:03:51 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:03:53 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:03:53 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:03:55 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:03:55 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:03:57 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:03:57 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:03:59 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:03:59 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:04:03 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:04:03 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:04:04 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:04:04 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:04:04 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:04:04 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:04:04 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:04:04 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:04:04 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:04:04 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:04:04 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:04:04 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:04:04 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:04:04 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:04:04 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:04:04 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:04:04 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:04:04 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:04:04 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:04:04 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:04:04 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:04:04 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:04:04 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:04:04 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:04:04 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:04:04 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:04:04 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:04:04 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:04:04 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:04:04 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:04:04 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:04:04 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:04:04 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:04:04 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:04:04 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:04:04 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:04:04 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:04:04 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:04:04 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:04:06 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:04:06 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:04:11 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:04:11 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:04:13 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:04:13 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:04:15 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:04:15 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:04:17 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:04:17 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:04:19 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:04:19 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:04:22 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:04:22 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:04:25 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:04:25 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:04:28 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:04:28 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:04:32 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:04:32 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:04:38 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:04:38 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:04:43 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:04:46 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:04:46 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:04:59 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:04:59 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:05:00 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:05:00 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:05:00 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:05:00 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:05:01 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:05:01 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:05:01 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:05:02 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:05:02 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:05:03 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: BDC
+Apr 28, 2017 5:05:03 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: EMC
+Apr 28, 2017 5:05:04 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:05:04 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:05:05 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:05:05 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:05:05 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:05:05 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:05:05 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:05:05 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:05:05 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:05:05 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:05:05 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:05:05 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:05:05 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:05:05 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:05:05 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:05:05 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:05:05 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:05:05 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:05:05 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:05:05 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:05:05 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:05:05 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:05:05 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:05:05 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:05:05 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:05:05 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:05:07 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:05:07 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:05:10 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:05:10 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:05:14 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:05:14 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:05:18 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:05:18 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:05:22 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:05:22 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:05:34 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:05:42 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:05:42 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:05:47 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:05:47 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:06:00 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:06:00 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:06:00 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:06:00 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:06:01 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:06:01 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:06:02 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:06:02 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:06:03 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:06:03 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:06:04 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:06:04 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:06:05 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:06:06 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:06:06 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:06:09 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:06:09 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:06:10 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:06:10 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:06:13 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:06:13 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:06:13 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:06:13 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:06:13 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:06:13 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:06:13 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:06:13 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:06:13 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:06:13 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:06:13 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:06:13 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:06:13 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:06:13 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:06:13 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:06:13 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:06:13 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:06:13 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:06:13 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:06:13 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:06:13 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:06:13 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:06:13 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:06:14 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:06:14 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:06:20 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:06:20 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:06:24 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:06:24 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:06:32 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:06:32 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:06:40 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:06:40 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:06:48 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:06:48 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:06:57 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:06:57 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:07:06 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:07:06 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:07:15 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:07:15 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:07:26 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:07:26 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:07:43 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:07:43 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:07:43 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:07:43 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:07:43 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:07:43 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:07:43 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:07:43 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:07:43 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:07:43 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:07:53 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:07:53 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:08:08 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:08:12 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:08:17 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:08:17 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:08:27 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:08:27 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:08:45 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:08:45 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:08:48 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:08:48 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:08:51 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:08:51 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:08:54 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:08:54 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:08:55 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:08:55 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:08:55 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:08:55 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:08:55 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:08:55 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:08:55 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:08:55 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:08:55 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+Apr 28, 2017 5:08:58 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:08:58 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:09:01 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:09:01 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:09:05 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:09:05 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:09:09 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:09:09 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:09:13 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:09:13 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:09:17 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:09:17 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:09:28 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:09:34 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:09:34 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri
+Apr 28, 2017 5:09:39 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: i
+Apr 28, 2017 5:09:39 PM org.apache.pdfbox.util.PDFStreamEngine processOperator
+INFO: unsupported/disabled operation: ri

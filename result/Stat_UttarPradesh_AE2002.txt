@@ -1,0 +1,2 @@
+in constituency, not in turnout
+com.model.constituency.Constituency@992b00b[id=403,name=MUZAFFARABAD]

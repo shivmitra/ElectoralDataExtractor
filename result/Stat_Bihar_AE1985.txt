@@ -1,0 +1,2 @@
+in constituency, not in turnout
+com.model.constituency.Constituency@51c15508[id=324,name=HUSSAINABAD]

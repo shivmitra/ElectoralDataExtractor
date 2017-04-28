@@ -44,9 +44,14 @@ public class TurnoutDataConverter implements IDataConverter{
 				gen = scan.nextInt();
 				post = scan.nextInt();
 				total = scan.nextInt();
+				scan.close();
+			}else{
+				scan.close();
+				// in case for uncontested constituency, no value after TOTAL
+				if(!"".equals( res[1].trim() ))
+					throw new Exception();
 			}
-			scan.close();
-			
+
 			turnout = new Turnout4(total, gen, post);
 		}catch(Exception e){
 			return false;

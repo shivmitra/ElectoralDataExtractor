@@ -54,7 +54,12 @@ public class ConstituencyDataConverter implements IDataConverter {
 	
 	private boolean parseForConstituency1() {
 		try{
-			String res[] = splitFromConstituency();
+			String res[] = new String[2];
+			try{
+				res = splitFromConstituency();
+			}catch(Exception e){
+				res[1] = data;
+			}
 			
 			res = Utils.splitData(res[1], Constants.PDF.TOTAL_ELECTOR);
 			

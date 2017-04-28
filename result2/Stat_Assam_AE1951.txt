@@ -1,8 +1,0 @@
-Constituency is in resultdata but missing in constituencydata
-Constituency is in constituencydata but missing in resultdata
-Constituency2(super=Constituency(id=26, name=NAGA HILLS CENTRAL), numberofSeats=1)
-Constituency2(super=Constituency(id=25, name=NAGA HILLS NORTH), numberofSeats=1)
-Constituency2(super=Constituency(id=27, name=NAGA HILLS SOUTH), numberofSeats=1)
-total constituency data 94
-total result data 91
-total turnout data 91

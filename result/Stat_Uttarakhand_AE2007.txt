@@ -1,0 +1,4 @@
+in constituency, not in turnout
+com.model.constituency.Constituency@1570ca6e[id=59,name=BAJPUR]
+in constituency, not in result
+com.model.constituency.Constituency@1570ca6e[id=59,name=BAJPUR]
